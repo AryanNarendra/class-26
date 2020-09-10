@@ -38,6 +38,8 @@ function setup(){
 
 }
 
+//I don't know what I'm doing
+
 function draw(){
     background(backgroundImg);
     Engine.update(engine);
